@@ -1,3 +1,3 @@
-#Seaching N-Gramms in text
+#Searching N-Gramms in text
 
-WinForms приложение для поиска n-грамм в тексте
+WinForms РїСЂРёР»РѕР¶РµРЅРёРµ РґР»СЏ РїРѕРёСЃРєР° n-РіСЂР°РјРј РІ С‚РµРєСЃС‚Рµ
